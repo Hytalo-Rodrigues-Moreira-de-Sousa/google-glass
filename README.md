@@ -1,6 +1,6 @@
 # 👓 Google Glass
 
-Atividade proposta pelo [CursoemVídeo](https://www.cursoemvideo.com/sobre/), desenvolvido a partir dos conceitos do *HTML* semântico, juntamente com uma nova interface do site criada por eu mesmo (desenvolvido com *CSS*).
+Atividade proposta pelo [CursoemVídeo](https://www.cursoemvideo.com/sobre/), desenvolvido a partir dos conceitos do *HTML* e *CSS*. Visa colocar em prática os conhecimentos adquiridos no novo curso **HTML5 e CSS3** na plataforma, juntamente com o conceito da responsividade.
 
 ---
 ## 🔗 Link do Projeto
